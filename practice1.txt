@@ -1,2 +1,3 @@
 GitHubを実行するまでの練習。
 addでcommitするまでを実行。
+もう一度addでcommitする。
